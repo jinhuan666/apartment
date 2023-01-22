@@ -1,0 +1,30 @@
+> Livingroom
+
+===Livingroom
+
+You are in the livingroom. It’s lightly furnished with blue walls and posters. You can see two exits here, one heading towards the kitchen and one heading towards the bedroom.
+
++[Go to Kitchen] You head towards the kitchen.
+
+                ->Kitchen
+
++[Go to bedroom] You head towards the bedrooms.
+
+                ->Bedroom
+
+===Kitchen
+
+A small kitchen, clean and white. There’s a fridge, stove, and diningroom table here.
+
++[Go back to livingroom] You turn around and head back to the livingroom.
+
+                ->Livingroom
+
+===Bedroom
+
+You’re standing in a cute bedroom. Posters of boy bands adorn the walls, and there is a strip of LED lights running across the top of the walls.
+
++[Go back to livingroom] You turn around and head back to the livingroom.
+
+                ->Livingroom
+
